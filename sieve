@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define size 32000
-int A[size],;
+int A[size];
 int sieve()
 {
     int i,j;
